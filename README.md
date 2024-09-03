@@ -17,9 +17,9 @@
   - ✍️ **Tech Blogging**: Writing articles, tutorials, and sharing knowledge on platforms like LinkedIn and Neural Nectar.
   
 - 📫 How to reach me:
-  - 💼 [LinkedIn](www.linkedin.com/in/akash-selvadoss-n-542765252)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/akash-selvadoss-n-542765252/)
   - ✉️ [Email](akashdoss996@gmail.com)
-  - 🌐 [Portfolio]([https://neccanteen.wordpress.com](https://akashdoss.wordpress.com/))
+  - 🌐 [Portfolio](https://akashdoss.wordpress.com/)
 
 - 😄 Pronouns: He/Him
 
