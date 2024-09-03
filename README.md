@@ -3,6 +3,7 @@
   - 🌐 **Artificial Intelligence**: Exploring new frontiers in AI, Machine Learning, and Deep Learning.
   - 📊 **Data Science**: Analyzing data to uncover insights and drive innovation.
   - 💻 **Software Development**: Building applications that make a difference, from concept to deployment.
+  - 🌐 **Web Development**: Active Learning in building Simple Web application Using HTML, CSS and JS
   - ♻️ **Sustainability**: Passionate about turning waste into wealth, particularly through eco-friendly innovations like coconut coir products.
   
 - 🌱 I’m currently learning:
