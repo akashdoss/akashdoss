@@ -17,7 +17,7 @@ I'm Akash Selvadoss, a B.Tech student specializing in Artificial Intelligence an
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashdoss/akashdoss/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashdoss/akashdoss/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/akashdoss/akashdoss/output/github-snake.svg" />
 </picture>
